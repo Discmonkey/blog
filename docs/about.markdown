@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is a personal blog for Max Grinchenko. 
+This is a personal blog for github.com/discmonkey. 
 
-
-I primarily write about programming languages and some of the projects I happen to be working on. 
-
-
-I believe in working towards a more sustainable future, and am happy to lend my time and expertise when possible towards that goal. 
+My only goal is to not write anything that's been written before. 
